@@ -11,7 +11,7 @@ CurrentKeyMap := 0
 
 Menu, Tray, Icon, icon-off.ico
 Menu, Tray, NoStandard
-Menu, Tray, Add, Touhou Remapper v1.0.0, donothing
+Menu, Tray, Add, Touhou Remapper v1.1.0, donothing
 Menu, Tray, Add
 Menu, Tray, Add, None, None
 Menu, Tray, Add, Touhou Default Remap, thWASD

@@ -1,5 +1,5 @@
 # Touhou Remapper
-A remapper for Touhou games made with [AutoHotKey](https://www.autohotkey.com). Remaps everything to WASD JKL and LShift.
+A remapper for Touhou games made with [AutoHotkey](https://www.autohotkey.com). Remaps everything to WASD JKL and LShift.
 
 It supports all Touhou control schemes including [POFV's multiplayer controls](https://en.touhouwiki.net/wiki/Phantasmagoria_of_Flower_View/Gameplay#Controls).
 

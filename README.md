@@ -14,9 +14,9 @@ It supports all Touhou shmup control schemes (that uses arrow keys) including [P
 ![Preview image](https://raw.githubusercontent.com/xchatiii/touhou-remapper/main/preview.png)
 
 ## Usage
-Make sure you have [AutoHotKey **v2.0** or above](https://www.autohotkey.com).
+Grab an executable release from the [releases](https://github.com/xchatiii/touhou-remapper/releases) tab.
 
-Grab an executable release from the [releases](https://github.com/xchatiii/touhou-remapper/releases) tab. You can also download the AHK script (with the icons!) from the source.
+You can also download the AHK script (with the icons!) from the source, but make sure you have [AutoHotKey **v2.0** or above](https://www.autohotkey.com).
 
 The remaps can be turned on by the tray menu, the GUI or using the following hotkeys.
 - CapsLock + 0: Disables the remap.
